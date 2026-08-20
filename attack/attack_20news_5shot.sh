@@ -9,7 +9,7 @@ numf=0
 dataset_num=("01" "02" "03" "04" "05")
 
 for k in "${dataset_num[@]}";do
-  python ../main2.py --config ./attack_20news_5shot.json \
+  python ../main.py --config ./attack_20news_5shot.json \
   --seed $seed \
   --gpu $gpu \
   --kshot $kshot \
