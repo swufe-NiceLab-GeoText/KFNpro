@@ -1,5 +1,5 @@
-# Few-Shot Text Classification Meets Black-Box Attacks: Ready or Not?
- KFNpro is a Variational Prototype Learning model. It designed to retrieve, calibrate class prototypes resilient to adversarial inference.
+# Enhancing Few-Shot Text Classification via Bifocal Memory and Variational Prototype Learning
+Official PyTorch implementation of **KFNPro**, a bifocal memory-augmented and variational prototype learning framework for robust few-shot text classification.
 
 
 ## Requirement
